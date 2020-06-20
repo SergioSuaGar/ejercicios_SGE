@@ -4,4 +4,4 @@
 
 Info repositorio rama desarrollo
 
-Commit para revertir
+Commit para realizado desde la rama de produccion
